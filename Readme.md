@@ -1,3 +1,6 @@
+#入职培训建立本地仓库
+
+
 ## WarningSystem
 
 There are two kinds of car maintenance：Time-related maintenance and Distance-related maintenance. In addition, besides maintenance, the car will be write-off if it reaches certain conditions.
